@@ -1,6 +1,6 @@
-# Dev Session Boilerplate
+# pairing-interview-frontend
 
-## Hello there fellow dev!
+Hello there fellow dev!
 
 For the day of our meeting we'll be having a 90 minute pair programming session where we'll be building a very simple app. You'll be presented with the full details during our meeting and we'll be walking through it together.
 
